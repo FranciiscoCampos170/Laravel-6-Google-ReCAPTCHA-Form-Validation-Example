@@ -12,4 +12,4 @@ In this project, i will create simple registration form and implement google cap
     ```NOCAPTCHA_SITEKEY=[site-key]```
     ```NOCAPTCHA_SECRET=[secret-key]```
 - Open your terminal in the folder and run ```php artisan serve```
-- Open your browser and type ```http://127.0.0.1:8000/site-register``
+- Open your browser and type ```http://127.0.0.1:8000/site-register```
