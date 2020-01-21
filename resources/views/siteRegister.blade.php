@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Laravel 6 - Google Recaptcha Code with Validation - ItSolutionStuff.com</title>
+	<title>Laravel 6 - Google Recaptcha</title>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" />
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	 {!! NoCaptcha::renderJs() !!}
@@ -12,7 +12,7 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-primary">
-                <div class="panel-heading">Register - ItSolutionStuff.com</div>
+                <div class="panel-heading">Register - Google ReCAPTCHA</div>
                 <div class="panel-body">
                     <form class="form-horizontal" role="form" method="POST" action="{{ url('/site-register') }}">
                         {!! csrf_field() !!}
