@@ -4,7 +4,7 @@ In this project, i will create simple registration form and implement google cap
 # USAGE
 - Clone the repository with ```git clone```
 - Run ```composer install```
-- Run ```composer require anhskohbo/no-captcha``
+- Run ```composer require anhskohbo/no-captcha```
 - Run ```php artisan key:generate```
 - Copy ```.env.example``` file to ```.env```
 - configure your [Google API Key](https://www.google.com/recaptcha/admin)
